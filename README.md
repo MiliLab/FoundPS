@@ -24,10 +24,6 @@ Pansharpening generates the high-resolution multi-spectral (MS) image by integra
 
 <img src="./assets/method.png" width="100%">
 
-## Method
-
-<img src="./assets/method.png" width="100%">
-
 ## Model Checkpoint
 
 TODO
