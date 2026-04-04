@@ -26,9 +26,9 @@ Pansharpening generates the high-resolution multi-spectral (MS) image by integra
 
 ## Dataset Download
 
-HuggingFace (TODO)
+HuggingFace (TODO,Uploading)
+
 BaiduYun[https://pan.baidu.com/s/1fUu1RHnMUbBM0vT7Ze2NPw?pwd=3ss3]
-https://pan.baidu.com/s/1fUu1RHnMUbBM0vT7Ze2NPw?pwd=3ss3 key=3ss3
 
 ## Model Checkpoint
 
