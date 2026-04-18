@@ -32,7 +32,8 @@ BaiduYun[https://pan.baidu.com/s/1fUu1RHnMUbBM0vT7Ze2NPw?pwd=3ss3]
 
 ## Model Checkpoint
 
-TODO
+BaiduYun[https://pan.baidu.com/s/1OXHFmRpncS59cY_X6WVS4w?pwd=askq]
+GoogleCloud[https://drive.google.com/drive/folders/11tQw5PMpQKPqoHnGV5gUptwD-mVu354k?usp=drive_link]
 
 ### Contributor
 
